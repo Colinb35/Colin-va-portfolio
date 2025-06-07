@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Colin Brown | Virtual Assistant & Real Estate Support</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      line-height: 1.6;
+      background-color: #f4f4f4;
+      color: #333;
+      margin: 0;
+      padding: 0;
+    }
+    .container {
+      max-width: 800px;
+      margin: auto;
+      padding: 20px;
+      background-color: white;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    }
+    h1, h2 {
+      color: #2c3e50;
+    }
+    ul {
+      list-style-type: disc;
+      padding-left: 20px;
+    }
+    .contact {
+      margin-top: 30px;
+      padding-top: 10px;
+      border-top: 1px solid #ddd;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Colin Brown</h1>
+    <h2>Virtual Assistant & Real Estate Support Specialist</h2>
+    <p><em>Helping real estate investors, small businesses, and logistics professionals stay organized, efficient, and focused on growth.</em></p>
+
+    <h2>Services I Offer</h2>
+
+    <h3>Real Estate Virtual Assistant Services</h3>
+    <ul>
+      <li>Market research, rent comps, and deal analysis</li>
+      <li>Lead tracking & CRM data entry (e.g., Podio, REI Reply)</li>
+      <li>Scheduling showings and managing follow-up tasks</li>
+      <li>Skip tracing and spreadsheet cleanup</li>
+      <li>Investor-friendly support with military discipline</li>
+    </ul>
+
+    <h3>Logistics & Admin Support</h3>
+    <ul>
+      <li>Excel reports, shipment logs, and inventory tracking</li>
+      <li>AMC-certified load planning experience</li>
+      <li>Data entry & document formatting</li>
+      <li>Fast, accurate, and reliable</li>
+    </ul>
+
+    <h3>General Virtual Assistance</h3>
+    <ul>
+      <li>Calendar and inbox management</li>
+      <li>Team/task coordination</li>
+      <li>Light customer service & bilingual support (Spanish – conversational)</li>
+    </ul>
+
+    <h2>Why Work With Me?</h2>
+    <ul>
+      <li>Former Marine with a background in logistics, quality control, and operations</li>
+      <li>Strong attention to detail, data accuracy, and reliable turnaround times</li>
+      <li>Comfortable with fast-paced environments and sensitive information</li>
+      <li>Based in San Diego – U.S.-based support you can trust</li>
+    </ul>
+
+    <div class="contact">
+      <h2>Contact Me</h2>
+      <p>Email: [Your Email]</p>
+      <p>Phone: [Your Number]</p>
+      <p>Availability: Part-time, flexible hours, quick turnarounds</p>
+      <p><strong>Let’s talk about how I can support your team or project.</strong></p>
+    </div>
+  </div>
+</body>
+</html>
